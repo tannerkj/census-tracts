@@ -4,4 +4,7 @@ This tutorial by [sparkgeo](http://www.sparkgeo.com/) illustrates the use of ftp
 
 Full tutorial can be found [here](http://www.sparkgeo.com/blog/building-a-us-census-tracts-postgis-database/). 
 
-insert cool img here ->
+View using QGIS:
+
+
+![censustracts2012_example](/images/censustracts_example.png)
